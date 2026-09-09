@@ -1,0 +1,1 @@
+print("new branch with git switch -c branchname")
